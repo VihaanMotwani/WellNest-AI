@@ -11,3 +11,7 @@ How we built it We have used a RoBERTa model fine-tuned for sentiment analysis a
 Challenges we ran into It was challenging to bring together the different features as a coherent and streamlined product.
 
 Demo Link: https://youtu.be/lxhhxgpkmgE
+
+Slides Link: https://docs.google.com/presentation/d/1Oh1_pMfStGLsi-5F8dfl53fBIKdco_xjqlUdvvZnc-U/edit?usp=sharing
+
+
