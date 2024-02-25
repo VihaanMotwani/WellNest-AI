@@ -43,7 +43,7 @@ numeric_data = st.file_uploader("Upload work environment numeric data csv")
 download_button_label = "Create Summary Report"
 
 # Set up OpenAI API key
-llm = ChatOpenAI(temperature=0, openai_api_key="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", model_name="gpt-3.5-turbo")
+llm = ChatOpenAI(temperature=0, openai_api_key="", model_name="gpt-3.5-turbo")
 # Function for text summarization using GPT-3
 
 
